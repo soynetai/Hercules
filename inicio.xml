@@ -6,22 +6,22 @@
 <title>[COLOR orange]Tutoriales[/COLOR]</title>
 <link>http:/Ignoreme</link>
 <fanart></fanart>
-<thumbnail>https:/raw.githubusercontent.com/soynetai/hercules/master/imagenes/videotuto.png</thumbnail>
+<thumbnail>https:/raw.githubusercontent.com/Andorth/Hercules/master/imagenes/videotuto.png</thumbnail>
 <externallink>https:/pastebin.com/raw/C0EtPpBL$$LSProEncKey=dHV0b3JpYWxlcw0K$$</externallink>
 </item>
 <item>
 <title>[COLOR orange]Series[/COLOR]</title>
 <link>http:/Ignoreme</link>
-<fanart>https:/raw.githubusercontent.com/soynetai/hercules/master/imagenes/series.jpg</fanart>
-<thumbnail>https:/raw.githubusercontent.com/soynetai/hercules/master/imagenes/series.png</thumbnail>
+<fanart>https:/raw.githubusercontent.com/Andorth/Hercules/master/imagenes/series.jpg</fanart>
+<thumbnail>https:/raw.githubusercontent.com/Andorth/Hercules/master/imagenes/series.png</thumbnail>
 <externallink>https:/pastebin.com/raw/chmKTFhY</externallink>
 </item>
 <item>
 <title>[COLOR orange]Peliculas[/COLOR]</title>
 <link>http:/Ignoreme</link>
 <fanart>http:/www.arielfeliciano.com/wp-content/uploads/100-peliculas-completas.jpg</fanart>
-<thumbnail>https:/raw.githubusercontent.com/soynetai/hercules/master/imagenes/peliculas.png</thumbnail>
-<externallink>https:/raw.githubusercontent.com/soynetai/hercules/master/peliculas/menu-peliculas-torrent.xml</externallink>
+<thumbnail>https:/raw.githubusercontent.com/Andorth/Hercules/master/imagenes/peliculas.png</thumbnail>
+<externallink>https:/raw.githubusercontent.com/Andorth/Hercules/master/peliculas/menu-peliculas-torrent.xml</externallink>
 </item>
 <item>
 <title>[COLOR orange]Adryanlist[COLOR red] [/COLOR][/COLOR]</title>
@@ -35,43 +35,43 @@
 <title>[COLOR orange]Explora[COLOR red] Addon Necesario e instalado[/COLOR][/COLOR]</title>
 <link>http:/Ignoreme</link>
 <jsonrpc>plugin:/plugin.video.Explora/</jsonrpc>
-<fanart>https:/raw.githubusercontent.com/soynetai/hercules/master/imagenes/fanart.jpg</fanart>
-<thumbnail>https:/raw.githubusercontent.com/soynetai/hercules/master/imagenes/icon.png</thumbnail>
+<fanart>https:/raw.githubusercontent.com/Andorth/Hercules/master/imagenes/fanart.jpg</fanart>
+<thumbnail>https:/raw.githubusercontent.com/Andorth/Hercules/master/imagenes/icon.png</thumbnail>
 </item>
 <item>
 <title>[COLOR orange]Atlantis[/COLOR]</title>
 <link>http:/Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/soynetai/Atlantis/master/main.xmlmain.xml</externallink>
-<fanart>https:/raw.githubusercontent.com/soynetai/hercules/master/imagenes/fanart.jpg</fanart>
-<thumbnail>https:/raw.githubusercontent.com/soynetai/hercules/master/imagenes/atlantis.png</thumbnail>
+<fanart>https:/raw.githubusercontent.com/Andorth/Hercules/master/imagenes/fanart.jpg</fanart>
+<thumbnail>https:/raw.githubusercontent.com/Andorth/Hercules/master/imagenes/atlantis.png</thumbnail>
 </item>
 <item>
 <title>[COLOR orange]Documentales[/COLOR][COLOR white][/COLOR]</title>
 <link>http:/Ignoreme</link>
-<fanart>https:/raw.githubusercontent.com/soynetai/hercules/master/imagenes/tv.png</fanart>
-<thumbnail>https:/raw.githubusercontent.com/soynetai/hercules/master/documentales/documentales.png</thumbnail>
-<externallink>https:/raw.githubusercontent.com/soynetai/hercules/master/documentales/inicio.xml</externallink>
+<fanart>https:/raw.githubusercontent.com/Andorth/Hercules/master/imagenes/tv.png</fanart>
+<thumbnail>https:/raw.githubusercontent.com/Andorth/Hercules/master/documentales/documentales.png</thumbnail>
+<externallink>https:/raw.githubusercontent.com/Andorth/Hercules/master/documentales/inicio.xml</externallink>
 </item>
 <item>
 <title>[COLOR orange]Deportes[/COLOR][COLOR white][/COLOR]</title>
 <link>http:/Ignoreme</link>
-<thumbnail>https:/raw.githubusercontent.com/soynetai/hercules/master/imagenes/deportes.png</thumbnail>
-<fanart>https:/raw.githubusercontent.com/soynetai/hercules/master/imagenes/fanart.jpg</fanart>
-<externallink>https:/raw.githubusercontent.com/soynetai/hercules/master/deportes/deportes.xml</externallink>
+<thumbnail>https:/raw.githubusercontent.com/Andorth/Hercules/master/imagenes/deportes.png</thumbnail>
+<fanart>https:/raw.githubusercontent.com/Andorth/Hercules/master/imagenes/fanart.jpg</fanart>
+<externallink>https:/raw.githubusercontent.com/Andorth/Hercules/master/deportes/deportes.xml</externallink>
 </item>
 <item>
 <title>[COLOR orange]Programas tv[/COLOR]</title>
 <link>http:/Ignoreme</link>
-<fanart>https:/raw.githubusercontent.com/soynetai/hercules/master/imagenes/fanart.jpg</fanart>
-<thumbnail>https:/raw.githubusercontent.com/soynetai/hercules/master/imagenes/tv.png</thumbnail>
-<externallink>https:/raw.githubusercontent.com/soynetai/hercules/master/programastv/inicio.xml</externallink>
+<fanart>https:/raw.githubusercontent.com/Andorth/Hercules/master/imagenes/fanart.jpg</fanart>
+<thumbnail>https:/raw.githubusercontent.com/Andorth/Hercules/master/imagenes/tv.png</thumbnail>
+<externallink>https:/raw.githubusercontent.com/Andorth/Hercules/master/programastv/inicio.xml</externallink>
 </item>
 <item>
 <title>[COLOR orange]YOUtubers Seleccion[/COLOR]</title>
 <link>http:/Ignoreme</link>
-<fanart>https:/raw.githubusercontent.com/soynetai/hercules/master/imagenes/fanart.jpg</fanart>
-<thumbnail>https:/raw.githubusercontent.com/soynetai/hercules/master/youtubers/Youtubers.png</thumbnail>
-<externallink>https:/raw.githubusercontent.com/soynetai/hercules/master/youtubers/inicio.xml</externallink>
+<fanart>https:/raw.githubusercontent.com/Andorth/Hercules/master/imagenes/fanart.jpg</fanart>
+<thumbnail>https:/raw.githubusercontent.com/Andorth/Hercules/master/youtubers/Youtubers.png</thumbnail>
+<externallink>https:/raw.githubusercontent.com/Andorth/Hercules/master/youtubers/inicio.xml</externallink>
 </item>  
     
 <item>
@@ -94,7 +94,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http:/www.thebarlowrchigh.co.uk/media/184153/information-icon.png</thumbnail>
-<fanart>https:/raw.githubusercontent.com/soynetai/hercules/master/imagenes/fanart.jpg</fanart>
+<fanart>https:/raw.githubusercontent.com/Andorth/Hercules/master/imagenes/fanart.jpg</fanart>
 </item>
 </items> 
 
