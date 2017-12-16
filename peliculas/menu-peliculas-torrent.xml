@@ -202,15 +202,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page>[makelist.param2]</page>
 </regex>
    
-<thumbnail>https://raw.githubusercontent.com/Andorth/Hercules/master/imagenes/peliculas.png</thumbnail>
+<thumbnail>https://github.com/soynetai/hercules/tree/master/imagenes/peliculas.png</thumbnail>
 </item>
    
    
 <item>
 <title>[COLOR orange][+] Peliculas[/COLOR][COLOR white] Stream[/COLOR]</title>
 <link>http://ignore</link>
-<thumbnail>https://raw.githubusercontent.com/Andorth/Hercules/master/imagenes/peliculas.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/Andorth/Hercules/master/imagenes/fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/Andorth/Hercules/master/peliculas/menu-peliculas-stream.xml</externallink>
+<thumbnail>https://github.com/soynetai/hercules/tree/master/imagenes/peliculas.png</thumbnail>
+<fanart>https://github.com/soynetai/hercules/tree/master/imagenes/fanart.jpg</fanart>
+<externallink>https://github.com/soynetai/hercules/tree/master/peliculas/menu-peliculas-stream.xml</externallink>
 </item> 
 </items>
